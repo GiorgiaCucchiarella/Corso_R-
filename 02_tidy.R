@@ -15,6 +15,8 @@ library(palmerpenguins)
 # Usiamo iris, già presente in R
 data(iris)
 
+
+
 dir.create("data")  # creiamo la cartella data se non esiste
 #write.csv(iris, "data/iris.csv", row.names = FALSE)
 rm(iris)  # rimuoviamo iris per poi ricaricarlo con read_cs
