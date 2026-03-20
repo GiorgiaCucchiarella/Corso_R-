@@ -14,6 +14,8 @@ x
 nome
 
 
+
+pluto
 ### 2) TIPI DI DATO ATOMICI ----------------------------------
 
 # I tipi atomici principali che incontreremo più spesso sono:
