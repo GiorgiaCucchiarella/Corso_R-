@@ -359,3 +359,6 @@ mean(iris$Petal.Length[iris$Species == "virginica"])
 boxplot(Petal.Length ~ Species, data = iris,
         main = "Petal length nelle tre specie di iris",
         ylab = "Petal Length")
+
+### fai un grafico ####
+
